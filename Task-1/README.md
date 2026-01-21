@@ -11,7 +11,7 @@ This folder contains a set of basic embedded system experiments implemented as p
 6. Use a push button to change LED brightness between low, medium, and high levels.
 7. Turn an LED ON when the IR sensor detects an object.
 8. Blink an LED the same number of times an object is detected by the IR sensor.
-9. Turn an LED ON only when both push button is pressed and IR sensor detects an object.1
+9. Turn an LED ON only when both push button is pressed and IR sensor detects an object.
 10. Use IR sensor as a security trigger: LED keeps blinking until a reset button is pressed.
 Platform Used:
 - Arduino UNO
